@@ -8,20 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    # Add this line to prevent infinite loops
     if: github.event.head_commit.author.name != 'llotze/GitHub-Actions-Bot'
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4  # Updated from v2
         with:
           fetch-depth: 1
-          token: ${{ secrets.ACCESS_TOKEN }}  # Use your PAT for checkout too
-      - name: Get Python 3.8
-        uses: actions/setup-python@v2
+          token: ${{ secrets.ACCESS_TOKEN }}
+      - name: Get Python 3.11 
+        uses: actions/setup-python@v5  # Updated from v2
         with:
-          python-version: '3.8'
+          python-version: '3.11'
       - name: Configure pip cache
-        uses: actions/cache@v4
+        uses: actions/cache@v4  # Updated from v2
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
