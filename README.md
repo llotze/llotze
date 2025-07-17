@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Lucas Lotze</h1>
+<h1 align="left"> I'm Lucas Lotze</h1>
 
 <p align="left">
   <b>Computer Science Student & Full Stack Developer</b><br>
@@ -7,17 +7,17 @@
 
 ---
 
-## 🚀 About Me
+## <img src="assets/rocket-gray.svg" height="22" style="vertical-align: middle;" /> About Me
 
-- ✨ Creating bugs since 2020
-- 📚 Currently learning: Next.js 15, React 19, TypeScript, and advanced SaaS architecture
-- 🎯 Goals: Build scalable, impactful products and deliver value to real clients
-- 🌎 Languages: English (Native), Spanish (Fluent), Portuguese (Fluent)
-- 🎲 Fun fact: I built a production SaaS platform in under 30 days!
+- <img src="assets/star-gray.svg" height="18" style="vertical-align: middle;" /> Coding since 2022
+- <img src="assets/book-gray.svg" height="18" style="vertical-align: middle;" /> Currently learning: Next.js 15, React 19, TypeScript, and advanced SaaS architecture
+- <img src="assets/target-gray.svg" height="18" style="vertical-align: middle;" /> Goals: Build scalable, impactful products and deliver value to real clients
+- <img src="assets/globe-gray.svg" height="18" style="vertical-align: middle;" /> Languages: English (Native), Spanish (Fluent), Portuguese (Fluent)
+- <img src="assets/dice-gray.svg" height="18" style="vertical-align: middle;" /> Fun fact: I built a production SaaS platform in under 30 days
 
 ---
 
-## 🛠️ Skills & Technologies
+## <img src="assets/rocket-gray.svg" height="22" style="vertical-align: middle;" /> Skills & Technologies
 
 ### Core Technologies
 
@@ -44,18 +44,18 @@
 
 ---
 
-## 🏆 Featured Projects
+## <img src="assets/trophy-gray.svg" height="22" style="vertical-align: middle;" /> Featured Projects
 
-### [AperturePM](https://aperturepm.com) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20" />
+### [AperturePM](https://aperturepm.com) &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" />
 > **Multi-Tenant Property Management SaaS Platform**
 
-- 🚀 Built from concept to production in **28 days**
-- 💼 Features: Secure tenant portals, automated billing, digital document workflows, real-time dashboards
-- 🏗️ Stack: Next.js 15, React 19, Node.js 22, PostgreSQL, Prisma, Tailwind CSS, Stripe, DocuSign, Supabase
-- 🔒 Private repository | 475+ commits | 285+ hours
+- <img src="assets/rocket-gray.svg" height="16" style="vertical-align: middle;" /> Built from concept to production in **28 days**
+- <img src="assets/star-gray.svg" height="16" style="vertical-align: middle;" /> Features: Secure tenant portals, automated billing, digital document workflows, real-time dashboards
+- <img src="assets/tools-gray.svg" height="16" style="vertical-align: middle;" /> Stack: Next.js 15, React 19, Node.js 22, PostgreSQL, Prisma, Tailwind CSS, Stripe, DocuSign, Supabase
+- <img src="assets/lock-gray.svg" height="16" style="vertical-align: middle;" /> Private repository | 475+ commits | 285+ hours
 
 <details>
-  <summary>🔍 <b>Technical Highlights</b></summary>
+  <summary><img src="assets/magnifier-gray.svg" height="16" style="vertical-align: middle;" /> <b>Technical Highlights</b></summary>
 
   - Multi-tenant architecture with role-based access control
   - Stripe integration for billing and payments
@@ -69,13 +69,13 @@
 ### GreenBenchmarks® &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" />
 > **Sustainability Dashboard & Climate Impact SaaS**
 
-- 🌱 Internship project, in progress
-- 📊 Web-based dashboard for climate impact and sustainability metrics
-- 🔗 Tokenized links and QR codes for sharing emissions data
-- 🛠️ Stack: Next.js 15, React 19, TypeScript, Tailwind CSS, Node.js
+- <img src="assets/plant-gray.svg" height="16" style="vertical-align: middle;" /> Internship project, in progress
+- <img src="assets/star-gray.svg" height="16" style="vertical-align: middle;" /> Web-based dashboard for climate impact and sustainability metrics
+- <img src="assets/link-gray.svg" height="16" style="vertical-align: middle;" /> Tokenized links and QR codes for sharing emissions data
+- <img src="assets/tools-gray.svg" height="16" style="vertical-align: middle;" /> Stack: Next.js 15, React 19, TypeScript, Tailwind CSS, Node.js
 
 <details>
-  <summary>🔍 <b>Technical Highlights</b></summary>
+ <summary><img src="assets/magnifier-gray.svg" height="16" style="vertical-align: middle;" /> <b>Technical Highlights</b></summary>
 
   - Modular, scalable codebase
   - Secure, tokenized sharing of climate metrics
@@ -83,12 +83,11 @@
   - Planned: Predictive analytics and benchmarking tools
 </details>
 
-## 📫 Contact
+## <img src="assets/book-gray.svg" height="22" style="vertical-align: middle;" /> Contact
 
 - [Portfolio Website](https://llotze.github.io/portfolio)
-- [Email](mailto:lucas.lotze@protonmail.com)
+- [Email](mailto:llotze@bu.edu)
 - [LinkedIn](https://www.linkedin.com/in/lucas-lotze-79b777340)
-- [GitHub](https://github.com/llotze)
 
 ---
 
