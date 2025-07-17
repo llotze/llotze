@@ -458,7 +458,7 @@ if __name__ == '__main__':
     follower_data, follower_time = perf_counter(follower_getter, USER_NAME)
 
 
-
+ 
     for index in range(len(total_loc)-1): total_loc[index] = '{:,}'.format(total_loc[index]) # format added, deleted, and total LOC
 
     svg_overwrite('dark_mode.svg', age_data, commit_data, star_data, repo_data, contrib_data, follower_data, total_loc[:-1])
