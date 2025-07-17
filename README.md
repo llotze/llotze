@@ -9,11 +9,22 @@
 
 ## <img src="assets/rocket-gray.svg" height="22" style="vertical-align: middle;" /> About Me
 
-- <img src="assets/star-gray.svg" height="18" style="vertical-align: middle;" /> Coding since 2022
-- <img src="assets/book-gray.svg" height="18" style="vertical-align: middle;" /> Currently learning: Next.js 15, React 19, TypeScript, and advanced SaaS architecture
-- <img src="assets/target-gray.svg" height="18" style="vertical-align: middle;" /> Goals: Build scalable, impactful products and deliver value to real clients
-- <img src="assets/globe-gray.svg" height="18" style="vertical-align: middle;" /> Languages: English (Native), Spanish (Fluent), Portuguese (Fluent)
-- <img src="assets/dice-gray.svg" height="18" style="vertical-align: middle;" /> Fun fact: I built a production SaaS platform in under 30 days
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <ul>
+        <li><img src="assets/star-gray.svg" height="18" style="vertical-align: middle;" /> Coding since 2022</li>
+        <li><img src="assets/book-gray.svg" height="18" style="vertical-align: middle;" /> Currently learning: Next.js 15, React 19, TypeScript, and advanced SaaS architecture</li>
+        <li><img src="assets/target-gray.svg" height="18" style="vertical-align: middle;" /> Goals: Build scalable, impactful products and deliver value to real clients</li>
+        <li><img src="assets/globe-gray.svg" height="18" style="vertical-align: middle;" /> Languages: English (Native), Spanish (Fluent), Portuguese (Fluent)</li>
+        <li><img src="assets/dice-gray.svg" height="18" style="vertical-align: middle;" /> Fun fact: I built a production SaaS platform in under 30 days</li>
+      </ul>
+    </td>
+    <td>
+      <img src="assets/heatmapfill.gif" alt="Commit Heatmap" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
