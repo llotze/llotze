@@ -92,4 +92,4 @@
 
 ---
 
-<sub>✨ Built with ❤️ by Lucas Lotze </sub>
+<sub>Built with ❤️ by Lucas Lotze </sub>
