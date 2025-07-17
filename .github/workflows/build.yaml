@@ -14,6 +14,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           fetch-depth: 1
+          token: ${{ secrets.ACCESS_TOKEN }}  # Use your PAT for checkout too
       - name: Get Python 3.8
         uses: actions/setup-python@v2
         with:
@@ -36,8 +37,7 @@ jobs:
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |-
           git add .
-          git diff
           git config --global user.email "github-actions-bot@llotze.github.io"
           git config --global user.name "llotze/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
-          git push https://llotze:${ACCESS_TOKEN}@github.com/llotze/llotze.git HEAD:${GITHUB_REF#refs/heads/}
+          git push
