@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main
+      - tester
   schedule:
     - cron: "0 4 * * *"
 jobs:
