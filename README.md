@@ -2,7 +2,7 @@
 
 <p align="left">
   <b>Computer Science Student & Full Stack Developer</b><br>
-  <i>Building production-ready SaaS, passionate about modern web development, automation, and delivering real value through technology.</i>
+  <i>Building production-ready SaaS, specializing in modern web development, interested in automation and delivering real value through technology.</i>
 </p>
 
 ---
