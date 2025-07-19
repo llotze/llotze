@@ -4,4 +4,3 @@
     <img alt="Lucas Lotze's GitHub Profile README" src="https://raw.githubusercontent.com/llotze/llotze/main/light_mode.svg">
   </picture>
 </a>
- 
